@@ -2,3 +2,6 @@ To add-on MongoDB database:
 	>heroku create
 	>heroku addons:create mongolab:sandbox
 	>heroku config   --- to check the addons
+	
+
+$heroku logs  --- to check logs or see error message
